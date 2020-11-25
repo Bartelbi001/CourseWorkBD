@@ -1,0 +1,76 @@
+﻿@model IEnumerable<TransportCompanyMVCApp.Models.Car>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RegistrationNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BodyNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EngineNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.YearOfIssue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DriverEmployee)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfLastMaintenance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mechanic)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarBrand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegistrationNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BodyNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EngineNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearOfIssue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DriverEmployee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfLastMaintenance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mechanic)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarBrand.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarType.Name)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

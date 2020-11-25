@@ -1,0 +1,350 @@
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.exe
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.csprojAssemblyReference.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.AssemblyInfoInputs.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.AssemblyInfo.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorAssemblyInfo.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorAssemblyInfo.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.TagHelpers.input.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.TagHelpers.output.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorCoreGenerate.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorTargetAssemblyInfo.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorTargetAssemblyInfo.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\TransportCompanyMVCApp.StaticWebAssets.Manifest.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\TransportCompanyMVCApp.StaticWebAssets.xml
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.csproj.CopyComplete
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.deps.json
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.runtimeconfig.json
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.runtimeconfig.dev.json
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.pdb
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.Views.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.Views.pdb
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.Views.pdb
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.pdb
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.genruntimeconfig.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.csproj.CoreCompileInputs.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.MvcApplicationPartsAssemblyInfo.cache
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\CarBrands\Index.cshtml.g.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\CarTypes\Index.cshtml.g.cs
+E:\chikanoff\3 курс\БД\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Index.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.exe
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.deps.json
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.runtimeconfig.json
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.runtimeconfig.dev.json
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.pdb
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.Views.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\TransportCompanyMVCApp.Views.pdb
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.csprojAssemblyReference.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.AssemblyInfoInputs.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.AssemblyInfo.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.csproj.CoreCompileInputs.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorAssemblyInfo.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorAssemblyInfo.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\TransportCompanyMVCApp.StaticWebAssets.Manifest.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\TransportCompanyMVCApp.StaticWebAssets.xml
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\TransportCompanyMVCApp.styles.css
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.TagHelpers.input.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.TagHelpers.output.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorCoreGenerate.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\CarBrands\Index.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Index.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\CarTypes\Index.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorTargetAssemblyInfo.cache
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.RazorTargetAssemblyInfo.cs
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.Views.pdb
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.csproj.CopyComplete
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.dll
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.pdb
+C:\University\3 course\Базы данных\lab4Shelkunov\TransportCompanyMVCApp\TransportCompanyMVCApp\obj\Debug\netcoreapp3.1\TransportCompanyMVCApp.genruntimeconfig.cache
